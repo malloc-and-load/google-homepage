@@ -10,3 +10,8 @@
    width: 272px;
    padding-top: 109px;
 }
+
+.searchbar {
+  display: block;
+  margin: auto;
+}
