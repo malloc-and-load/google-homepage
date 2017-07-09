@@ -16,3 +16,9 @@
   margin: auto;
   text-align: center;
 }
+
+.search_button {
+  font-family: arial, sans-serif;
+  font-size: 13px;
+  font-weight: bold;
+}
